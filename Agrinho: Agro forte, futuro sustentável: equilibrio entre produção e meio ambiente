@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Forte, Futuro Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Agro Forte, Futuro Sustentável</h1>
+        <p>O equilíbrio perfeito entre a produção e a preservação do meio ambiente.</p>
+    </header>
+
+    <main class="container">
+        <section class="card">
+            <h2>O Desafio do Século</h2>
+            <p>Como alimentar uma população mundial em crescimento sem esgotar os recursos naturais do nosso planeta? A resposta está na tecnologia, na responsabilidade e nas práticas agrícolas conscientes.</p>
+        </section>
+
+        <section class="card">
+            <h2>Pilares do Agro Sustentável</h2>
+            <ul>
+                <li><strong>Tecnologia no Campo:</strong> Uso de drones e sensores para evitar o desperdício de água e insumos.</li>
+                <li><strong>Preservação:</strong> Rotação de culturas e manejo direto para proteger o solo.</li>
+                <li><strong>Energia Limpa:</strong> Fazendas movidas a energia solar e biomassa.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Consciência e Produtividade no Campo</p>
+    </footer>
+
+</body>
+</html>
